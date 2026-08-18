@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+data/raw/*.tsv
+data/processed/*
+
+# Models
+*.pt
+*.pth
+checkpoints/
+
+# Secrets
+.env
