@@ -4,7 +4,7 @@ __pycache__/
 *.pyc
 
 # Dataset
-data/raw/*.tsv
+data/raw/*
 data/processed/*
 
 # Models
@@ -14,3 +14,6 @@ checkpoints/
 
 # Secrets
 .env
+
+# Jupyter
+.ipynb_checkpoints/

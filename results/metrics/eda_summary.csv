@@ -1,0 +1,13 @@
+metric,value
+train_samples,40000.0
+validation_samples,5000.0
+test_samples,5000.0
+average_sentence_length,57.202525
+median_sentence_length,42.0
+90th_percentile_sentence_length,115.0
+95th_percentile_sentence_length,139.0
+99th_percentile_sentence_length,237.0
+average_labels_per_sentence,7.911475
+max_labels_per_sentence,22.0
+single_label_ratio,0.009025
+multi_label_ratio,0.990975
