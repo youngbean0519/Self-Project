@@ -28,7 +28,7 @@ def evaluate_multilabel(y_true, y_pred, y_prob=None):
         zero_division=0,
     )
 
-    results["hamming_losss"] = hamming_loss(
+    results["hamming_loss"] = hamming_loss(
         y_true,
         y_pred,
     )
